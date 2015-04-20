@@ -1,0 +1,35 @@
+{
+  "name": "es6-tryout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luhmann/es6-tryout.git"
+  },
+  "author": "Jan Florian Dietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luhmann/es6-tryout/issues"
+  },
+  "homepage": "https://github.com/luhmann/es6-tryout",
+  "devDependencies": {
+    "babel-core": "^5.1.11",
+    "babel-loader": "^5.0.0",
+    "bean": "^1.0.15",
+    "bootstrap": "^3.3.4",
+    "css-loader": "^0.10.1",
+    "file-loader": "^0.8.1",
+    "html-loader": "^0.2.3",
+    "lodash": "^3.7.0",
+    "mocha-traceur": "^2.1.0",
+    "sass-loader": "^0.4.2",
+    "style-loader": "^0.10.2",
+    "superagent": "^1.2.0",
+    "webpack": "^1.8.5",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
